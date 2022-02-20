@@ -2,6 +2,7 @@
 
 - 🔭 Born and living in Brazil
 - 🌱 Full Stack Developer (Student)
+- ✍ Currently learning SQL database
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love string instruments
 
