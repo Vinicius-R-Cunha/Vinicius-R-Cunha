@@ -1,6 +1,6 @@
 # Hello World, I'm Vinicius 👋
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92492685/167287254-3e4885c6-673a-4e1b-9504-df6befc38d66.png" height="250" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92492685/167287739-14685b56-30b6-459e-b02b-38b2d81fd073.png" height="250" />
 
 - :partying_face: 22 years old
 - 🔭 Born and living in Brazil
