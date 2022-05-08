@@ -1,10 +1,15 @@
 # Hello World, I'm Vinicius 👋
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92492685/167287254-3e4885c6-673a-4e1b-9504-df6befc38d66.png" height="250" />
+
+- :partying_face: 22 years old
 - 🔭 Born and living in Brazil
-- 🌱 Full Stack Developer (Student)
-- ✍ Currently learning SQL database
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I love string instruments
+- 🌱 Full Stack Developer (Always a Student)
+- ✍ Currently learning Docker
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
+- :violin: Acoustic guitar player currently learning violin 
+- ⚡ Fun fact: I did this dragon with only paper
 
 
 ## Technologies
