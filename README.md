@@ -51,6 +51,6 @@
   
 <details>
   <summary><h3> Statistics</h3></summary>
-  <img height="165em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=Vinicius-R-Cunha&show_icons=true&hide_border=true" />
+  <img height="165em" alt="Vinicius-R-Cunha stats" src="https://github-readme-stats.vercel.app/api?username=Vinicius-R-Cunha&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-R-Cunha&layout=compact" />
 </details>
