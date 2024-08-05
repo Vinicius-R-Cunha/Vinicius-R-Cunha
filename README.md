@@ -2,12 +2,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92492685/167287739-14685b56-30b6-459e-b02b-38b2d81fd073.png" height="250" />
 
-- :partying_face: 22 years old
+- :partying_face: 25 years old
 - 🔭 Born and living in Brazil
-- 🌱 Full Stack Developer (Always a Student)
+- 🌱 Front End Developer at Somos Educação
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him
-- :violin: Acoustic guitar player currently learning violin 
+- :guitar: I love playing acoustic guitar
 - ⚡ Fun fact: I did this dragon with only paper
 
 ## Technologies
