@@ -6,7 +6,7 @@
 - 🔭 Born and living in Brazil
 - 🌱 Front End Developer at Somos Educação
 - 💬 Ask me about anything
-- :guitar: I love playing acoustic guitar
+- :guitar: I love playing guitar
 - ⚡ Fun fact: I did this dragon with only paper
 
 ## Technologies
