@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92492685/167287739-14685b56-30b6-459e-b02b-38b2d81fd073.png" height="190" />
 
-- :partying_face: 25 years old
-- 🌱 Front End Developer at Somos Educação
+- 🌱 Front End Developer
 - 🔭 Born and living in Brazil
 - :guitar: Guitar player as hobby
 - ⚡ Fun fact: I did this dragon with only paper
